@@ -13,4 +13,4 @@
 ╚═════╝    ╚═╝       ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xyloscript/DEOFMOPABOOKABA/refs/heads/main/XYLONTOP"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xyloscript/DEOFMOPABOBOKABA/refs/heads/main/XYLOONTOP"))()
